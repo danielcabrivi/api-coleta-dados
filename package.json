@@ -1,0 +1,11 @@
+{
+  "name": "api-coleta-dados",
+  "version": "1.0.0",
+  "description": "API para coleta de dados - disciplina IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
